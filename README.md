@@ -187,8 +187,3 @@ Excepts the `onLocationChanged()` method, you can override all the [LocationList
 <li>onProviderEnabled(String provider)</li>
 <li>onStatusChanged(String provider, int status, Bundle extras)</li>
 </ul>
-
-### Contact & Questions
-
-If you have any questions, fell free to send me a mail.
-You can also fork this project, or open an issue :)
